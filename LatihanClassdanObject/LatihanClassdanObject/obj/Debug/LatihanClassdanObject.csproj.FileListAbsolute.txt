@@ -1,0 +1,7 @@
+D:\qadrian\LatihanClassdanObject\LatihanClassdanObject\obj\Debug\LatihanClassdanObject.csprojAssemblyReference.cache
+D:\qadrian\LatihanClassdanObject\LatihanClassdanObject\obj\Debug\LatihanClassdanObject.csproj.CoreCompileInputs.cache
+D:\qadrian\LatihanClassdanObject\LatihanClassdanObject\bin\Debug\LatihanClassdanObject.exe.config
+D:\qadrian\LatihanClassdanObject\LatihanClassdanObject\bin\Debug\LatihanClassdanObject.exe
+D:\qadrian\LatihanClassdanObject\LatihanClassdanObject\bin\Debug\LatihanClassdanObject.pdb
+D:\qadrian\LatihanClassdanObject\LatihanClassdanObject\obj\Debug\LatihanClassdanObject.exe
+D:\qadrian\LatihanClassdanObject\LatihanClassdanObject\obj\Debug\LatihanClassdanObject.pdb
